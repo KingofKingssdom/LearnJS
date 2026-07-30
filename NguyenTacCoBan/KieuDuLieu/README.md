@@ -30,6 +30,7 @@ Ví du:
 let x = 100;
 let y = 9.5;
 ```
+
 - Để lấy phạm vi của kiểu dữ liệu số này sử dụng cú pháp **Number.MAX_VALUE** và **Number.MIN_VALUE** <br/>
 ví dụ: 
 
