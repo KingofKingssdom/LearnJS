@@ -32,6 +32,7 @@ let y = 9.5;
 ```
 - Để lấy phạm vi của kiểu dữ liệu số này sử dụng cú pháp **Number.MAX_VALUE** và **Number.MIN_VALUE** <br/>
 ví dụ: 
+
 ```js
 console.log(Number.MAX_VALUE); // 1.7976931348623157e+308
 console.log(Number.MIN_VALUE); // 5e-324
