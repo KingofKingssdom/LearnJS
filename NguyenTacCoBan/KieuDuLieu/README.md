@@ -25,12 +25,12 @@ let x = undefined
 ### 3. Kiểu dữ liệu number
 - Kiểu dữ liệu này biểu diễn số nguyên và số thực 
 <br/>
-Ví du:
+Ví dụ:
+
 ```js
 let x = 100;
 let y = 9.5;
 ```
-
 - Để lấy phạm vi của kiểu dữ liệu số này sử dụng cú pháp **Number.MAX_VALUE** và **Number.MIN_VALUE** <br/>
 ví dụ: 
 
